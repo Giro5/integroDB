@@ -1,0 +1,15 @@
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\стоматология.mdb
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\стоматологияDataSet.Designer.cs
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\стоматологияDataSet.xsc
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\стоматологияDataSet.xsd
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\стоматологияDataSet.xss
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\integroDB.exe.config
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\integroDB.exe
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\Debug\integroDB.pdb
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\Debug\integroDB.csprojAssemblyReference.cache
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\Debug\integroDB.Form1.resources
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\Debug\integroDB.Properties.Resources.resources
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\Debug\integroDB.csproj.GenerateResource.cache
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\Debug\integroDB.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\Debug\integroDB.exe
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\Debug\integroDB.pdb

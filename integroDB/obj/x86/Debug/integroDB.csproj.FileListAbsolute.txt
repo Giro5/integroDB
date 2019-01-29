@@ -1,0 +1,9 @@
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\x86\Debug\integroDB.exe.config
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\x86\Debug\integroDB.exe
+C:\Users\Giro\source\repos\integroDB\integroDB\bin\x86\Debug\integroDB.pdb
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\x86\Debug\integroDB.csprojAssemblyReference.cache
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\x86\Debug\integroDB.Properties.Resources.resources
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\x86\Debug\integroDB.csproj.GenerateResource.cache
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\x86\Debug\integroDB.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\x86\Debug\integroDB.exe
+C:\Users\Giro\source\repos\integroDB\integroDB\obj\x86\Debug\integroDB.pdb
